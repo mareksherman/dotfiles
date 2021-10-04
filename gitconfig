@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marek.sherman@gmail.com
+	name = Marek Sherman
